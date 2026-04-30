@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Temitope Ajo
+# 👋 Hi, I'm Temitope Ajo 
 ## ☁️ AWS Cloud Learner | Future Cloud Architect
 
 I’m focused on building practical knowledge in AWS cloud technologies and understanding how real-world systems are designed, secured, and scaled.
