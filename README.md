@@ -1,86 +1,88 @@
-# 👋 Hi, I'm Temitope Ajo 
-## ☁️ AWS Cloud Engineer 
+ 👋 Hi, I'm Temitope Ajo
+☁️ AWS Cloud & Infrastructure Engineer
+I’m an AWS-focused cloud professional with hands-on experience building secure, scalable, and real-world inspired cloud infrastructure projects using AWS services including Amazon VPC, EC2, IAM, S3, CloudWatch, CloudTrail, and IAM Identity Center.
+My focus is on developing practical cloud engineering skills through hands-on architecture, security, networking, monitoring, and access control projects that simulate real enterprise environments.
 
-I’m focused on building practical knowledge in AWS cloud technologies and understanding how real-world systems are designed, secured, and scaled.
+🧠 Background
+My professional background spans:
+Healthcare
+Civil Service
+Banking
+Business Management
 
-My goal is to move beyond theory and build hands-on cloud projects that demonstrate real engineering thinking.
+Working in highly regulated environments has strengthened my understanding of:
+Security and compliance
+Incident management
+Operational support
+Documentation and communication
+Secure handling of sensitive information
 
----
+These experiences shape how I approach cloud engineering — with a strong focus on reliability, security, and real-world usability.
 
-## 🧠 Background
+☁️ Technical Skills
+AWS
+Amazon VPC
+EC2
+S3
+IAM
+IAM Identity Center
+CloudWatch
+CloudTrail
+NAT Gateway
+Security Groups
+Route Tables
 
-My background includes experience in:
-- Civil service  
-- Mental health nursing  
-- Business management  
+Cloud & Infrastructure
+Network Segmentation
+Role-Based Access Control (RBAC)
+Least Privilege Access
+Secure Cloud Architecture
+Monitoring & Alerting
 
-These experiences shaped how I approach technology — with a **practical, structured, and people-focused mindset**.
+Linux & Tools
+SSH
+Linux CLI
+Git & GitHub
+Docker Fundamentals
+Terraform Awareness
 
-I focus on understanding how systems impact real users, especially in security and data-sensitive environments.
+🏗️ Featured Project Areas
+I build practical AWS projects focused on real-world infrastructure and security scenarios, including:
+Government-style network isolation architectures
+Healthcare data protection systems
+Secure multi-environment AWS platforms
+Identity and access management simulations
+Monitoring and alerting systems using CloudWatch & SNS
 
----
+Key areas demonstrated in my projects:
+Secure VPC design
+Public/private subnet architecture
+IAM least-privilege policies
+EC2 deployment
+Cloud monitoring and logging
+Infrastructure security best practices
 
-## 🎓 Certifications
+🎓 Certifications
+AWS Certified Cloud Practitioner
+Preparing for AWS Solutions Architect Associate
+Generative AI Overview for Project Managers
+Prompt Engineering for Project Managers
 
-- AWS Certified Cloud Practitioner  
-- Currently preparing for AWS Solutions Architect Associate  
+🎯 Career Goal
+My goal is to grow into a Cloud Engineer / Cloud Architect role by continuing to build hands-on experience in AWS infrastructure, cloud security, networking, monitoring, and scalable system design.
 
----
+I’m especially interested in:
+Cloud Infrastructure
+AWS Support Engineering
+Cloud Security
+DevOps & Automation
+Scalable Architecture Design
 
-## 🏗️ What I'm Working On
-
-I use LinkedIn, GitHub, and short-form content to document my learning journey through:
-
-- AWS hands-on projects  
-- Cloud architecture demos  
-- Simplified explanations of complex AWS services  
-- Real-world system simulations  
-
----
-
-## ☁️ Technical Focus Areas
-
-- AWS Cloud Technologies  
-- Cloud Architecture & Infrastructure Design  
-- Security (IAM, Access Control, Least Privilege)  
-- Serverless and Scalable Systems  
-- Automation and Cloud Best Practices  
-
----
-
-## 🔐 Project Approach
-
-I build real-world inspired scenarios such as:
-- Banking access control systems  
-- Healthcare data protection systems  
-- Government-style multi-department security models  
-
-Each project focuses on:
-- Security design  
-- Role-based access control  
-- Scalable cloud architecture thinking  
-
----
-
-## 🎯 Goal
-
-My goal is to make cloud computing easier to understand for both technical and non-technical professionals using practical, real-world examples.
-
-I aim to grow into a **Cloud Architect** by building hands-on experience in AWS design, security, and infrastructure.
-
----
-
-## 🤝 Let’s Connect
-
-Feel free to connect with me on **LinkedIn**:
+🤝 Connect With Me
+LinkedIn:
 https://www.linkedin.com/in/temi-a-b406b618b/
+GitHub:
+https://github.com/teajo99
 
-If you're interested in:
-- AWS cloud computing  
-- Cloud architecture  
-- Practical cloud learning  
-
-## Fun Fact
-
-I enjoy experimenting with new cloud technologies and sharing knowledge with the community. 🚀  
-
+🚀 Fun Fact
+I enjoy simplifying cloud concepts, building real-world cloud simulations, and continuously experimenting with AWS technologies to deepen my understanding of modern cloud infrastructure
