@@ -80,7 +80,6 @@ If you're interested in:
 - Cloud architecture  
 - Practical cloud learning  
 
-
 ## Fun Fact
 
 I enjoy experimenting with new cloud technologies and sharing knowledge with the community. 🚀  
