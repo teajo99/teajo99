@@ -1,4 +1,5 @@
  👋 Hi, I'm Temitope Ajo
+
 ☁️ AWS Cloud & Infrastructure Engineer
 I’m an AWS-focused cloud professional with hands-on experience building secure, scalable, and real-world inspired cloud infrastructure projects using AWS services including Amazon VPC, EC2, IAM, S3, CloudWatch, CloudTrail, and IAM Identity Center.
 My focus is on developing practical cloud engineering skills through hands-on architecture, security, networking, monitoring, and access control projects that simulate real enterprise environments.
