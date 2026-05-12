@@ -1,10 +1,10 @@
- 👋 Hi, I'm Temitope Ajo
+ Hi, I'm Temitope Ajo
 
 ☁️ AWS Cloud & Infrastructure Engineer
 I’m an AWS-focused cloud professional with hands-on experience building secure, scalable, and real-world inspired cloud infrastructure projects using AWS services including Amazon VPC, EC2, IAM, S3, CloudWatch, CloudTrail, and IAM Identity Center.
 My focus is on developing practical cloud engineering skills through hands-on architecture, security, networking, monitoring, and access control projects that simulate real enterprise environments.
 
-🧠 Background
+Background
 My professional background spans:
 Healthcare
 Civil Service
@@ -20,7 +20,7 @@ Secure handling of sensitive information
 
 These experiences shape how I approach cloud engineering — with a strong focus on reliability, security, and real-world usability.
 
-☁️ Technical Skills
+Technical Skills
 AWS
 Amazon VPC
 EC2
@@ -47,7 +47,7 @@ Git & GitHub
 Docker Fundamentals
 Terraform Awareness
 
-🏗️ Featured Project Areas
+ Featured Project Areas
 I build practical AWS projects focused on real-world infrastructure and security scenarios, including:
 Government-style network isolation architectures
 Healthcare data protection systems
@@ -63,13 +63,13 @@ EC2 deployment
 Cloud monitoring and logging
 Infrastructure security best practices
 
-🎓 Certifications
+ Certifications
 AWS Certified Cloud Practitioner
 Preparing for AWS Solutions Architect Associate
 Generative AI Overview for Project Managers
 Prompt Engineering for Project Managers
 
-🎯 Career Goal
+Career Goal
 My goal is to grow into a Cloud Engineer / Cloud Architect role by continuing to build hands-on experience in AWS infrastructure, cloud security, networking, monitoring, and scalable system design.
 
 I’m especially interested in:
@@ -79,11 +79,11 @@ Cloud Security
 DevOps & Automation
 Scalable Architecture Design
 
-🤝 Connect With Me
+Connect With Me
 LinkedIn:
 https://www.linkedin.com/in/temi-a-b406b618b/
 GitHub:
 https://github.com/teajo99
 
-🚀 Fun Fact
+Fun Fact
 I enjoy simplifying cloud concepts, building real-world cloud simulations, and continuously experimenting with AWS technologies to deepen my understanding of modern cloud infrastructure
