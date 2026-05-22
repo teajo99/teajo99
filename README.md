@@ -1,98 +1,30 @@
 Hi, I'm Temitope Ajo
-
-AWS Cloud & Infrastructure Engineer
-
-I’m an AWS-focused cloud professional with hands-on experience building secure, scalable, and real-world inspired cloud infrastructure projects using AWS services including Amazon VPC, EC2, IAM, S3, CloudWatch, CloudTrail, and IAM Identity Center.
-My focus is on developing practical cloud engineering skills through hands-on architecture, security, networking, monitoring, and access control projects that simulate real enterprise environments.
-
-Background
-
-My professional background spans:
-Healthcare
-Civil Service
-Banking
-Business Management
-
-Working in highly regulated environments has strengthened my understanding of:
-Security and compliance
-Incident management
-Operational support
-Documentation and communication
-Secure handling of sensitive information
-
-These experiences shape how I approach cloud engineering — with a strong focus on reliability, security, and real-world usability.
-
-Technical Skills
-
-AWS
-Amazon VPC
-EC2
-S3
-IAM
-IAM Identity Center
-CloudWatch
-CloudTrail
-NAT Gateway
-Security Groups
-Route Tables
-
-Cloud & Infrastructure
-Network Segmentation
-Role-Based Access Control (RBAC)
-Least Privilege Access
-Secure Cloud Architecture
-Monitoring & Alerting
-
-Linux & Tools
-SSH
-Linux CLI
-Git & GitHub
-Docker Fundamentals
-Terraform Awareness
-
-Featured Project Areas
-
-I build practical AWS projects focused on real-world infrastructure and security scenarios, including:
-Government-style network isolation architectures
-Healthcare data protection systems
-Secure multi-environment AWS platforms
-Identity and access management simulations
-Monitoring and alerting systems using CloudWatch & SNS
-
-Key areas demonstrated in my projects:
-
-Secure VPC design
-Public/private subnet architecture
-IAM least-privilege policies
-EC2 deployment
-Cloud monitoring and logging
-Infrastructure security best practices
-
-Certifications
-
-AWS Certified Cloud Practitioner
-Preparing for AWS Solutions Architect Associate
-Generative AI Overview for Project Managers
-Prompt Engineering for Project Managers
-
-Career Goal
-
-My goal is to grow into a Cloud Engineer / Cloud Architect role by continuing to build hands-on experience in AWS infrastructure, cloud security, networking, monitoring, and scalable system design.
-
-I’m especially interested in:
-
-Cloud Infrastructure
-AWS Support Engineering
+Cloud Engineer | AWS Infrastructure | Security | Networking
+I'm a Cloud Engineer focused on designing and building secure, scalable AWS environments through hands-on projects and real-world infrastructure simulations.
+My projects demonstrate practical implementations of AWS services including Amazon VPC, EC2, IAM, S3, CloudWatch, CloudTrail, IAM Identity Center, and networking components such as NAT Gateways, Route Tables, and Security Groups.
+Core Areas
+AWS Infrastructure
+Cloud Networking & VPC Design
+IAM & Access Control
+Cloud Security Best Practices
+Monitoring & Logging
+Linux & Cloud Operations
+Infrastructure Automation
+Featured Projects
+Secure VPC Architectures
+Public & Private Subnet Deployments
+IAM Least-Privilege Implementations
+Multi-Environment AWS Platforms
+CloudWatch Monitoring & Alerting Solutions
+Enterprise-Inspired Security Scenarios
+Technologies
+AWS • EC2 • VPC • IAM • S3 • CloudWatch • CloudTrail • IAM Identity Center • Linux • Git • GitHub • Docker • Terraform
+Beyond Building
+Alongside hands-on cloud projects, I share practical AWS knowledge through technical content, architecture walkthroughs, and cloud consulting, helping others bridge the gap between learning and implementation.
+Current Focus
+AWS Solutions Architecture
 Cloud Security
-DevOps & Automation
-Scalable Architecture Design
-
-Connect With Me
-LinkedIn:
-https://www.linkedin.com/in/temi-a-b406b618b/
-GitHub:
-https://github.com/teajo99
-
-Fun Fact
-
-I enjoy simplifying cloud concepts, building real-world cloud simulations, and continuously experimenting with AWS technologies to deepen my understanding of modern cloud infrastructure
+Infrastructure Automation
+Scalable Cloud Design
+DevOps Practices
+📍 LinkedIn: www.linkedin.com/in/temi-a-b406b618b/
