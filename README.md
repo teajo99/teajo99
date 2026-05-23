@@ -32,4 +32,4 @@ Cloud Security
 Infrastructure Automation
 Scalable Cloud Design
 DevOps Practices
-📍 LinkedIn: www.linkedin.com/in/temi-a-b406b618b/
+LinkedIn: www.linkedin.com/in/temi-a-b406b618b/
